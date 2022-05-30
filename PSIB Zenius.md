@@ -1,6 +1,6 @@
 ## Learning Path PSIB Zenius
 
-Pada Program Studi Independen Bersertifikat Zenius memili
+Pada Program Studi Independen Bersertifikat Zenius, saya belajar tentang cara menganalisis data menggunakan Python yang diajarkan menggunakan tool google colab, jupyter notebook, dan Anaconda.
 
 ### Learning Path  
 
