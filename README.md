@@ -1,8 +1,10 @@
-## Developer Portfolio and Learning Data Analyst
+## Portfolio and Learning Data Analyst
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+Halo, nama saya Lucky Kumala dan saya adalah mahasiswa dari S1 Manajemen konsentrasi Keuangan (Fakultas Ekonomi, Universitas Negeri Jakarta), selain itu saya mengikuti Program Studi Independen Bersertifikat yang diadakan mitra Zenius learning path dari Data Warehousing, Analysis, and Visualization for Business Insights.
+
+Sebagai mahasiswa manajemen saya memiliki minat terhadap data analyst karena sebagai data analyst bukan hanya menganalisis namun juga memberikan pandangan dan menyarankan solusi berdasarkan data yang ia peroleh. Oleh karena itu, dari data kita bisa membaca arah bisnis untuk meraih target yang ditetapkan. Jadi begitulah cara saya melihat tentang data. Menemukan pola yang tidak dilihat orang lain adalah tantangan bagi saya.
 
 <img src="images/demo.gif?raw=true"/>
 
