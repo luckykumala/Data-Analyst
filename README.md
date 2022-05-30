@@ -8,7 +8,7 @@ Sebagai mahasiswa manajemen saya memiliki minat terhadap data analyst karena seb
 
 ### PSIB Zenius Data Warehousing, Analysis, and Visualization for Business Insights
 
-Apa yang dipelajari dari program studi independen bersertifikat yang diadakan oleh [PSIB Zenius](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+Apa yang dipelajari dari program studi independen bersertifikat yang diadakan oleh [PSIB Zenius](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius.md).
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
