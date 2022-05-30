@@ -6,8 +6,6 @@ Halo, nama saya Lucky Kumala dan saya adalah mahasiswa dari S1 Manajemen konsent
 
 Sebagai mahasiswa manajemen saya memiliki minat terhadap data analyst karena sebagai data analyst bukan hanya menganalisis namun juga memberikan pandangan dan menyarankan solusi berdasarkan data yang ia peroleh. Oleh karena itu, dari data kita bisa membaca arah bisnis untuk meraih target yang ditetapkan. Jadi begitulah cara saya melihat tentang data. Menemukan pola yang tidak dilihat orang lain adalah tantangan bagi saya.
 
-<img src="images/Lucky%20Kumala%20_image.jpeg?raw=true" width="250" height="250">
-
 ### Installation
 
 See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
