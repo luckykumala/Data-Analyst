@@ -8,5 +8,5 @@ Sebagai mahasiswa manajemen saya memiliki minat terhadap data analyst karena seb
 
 ### Roadmap PSIB Zenius Data Warehousing, Analysis, and Visualization for Business Insights
 Data menjadi sumber daya penting di era digital. Namun di sisi lain, banyaknya data belum tentu memberikan nilai tambah apabila tidak mampu menghasilkan informasi yang dibutuhkan. Pengelolaan data mentah sampai menghasilkan informasi yang bermanfaat dan dapat dianalisis secara visual membutuhkan posisi tim data yang strategis dan ahli secara teknikal. Zenius menghadirkan sesi pendalaman kemampuan Data Warehousing, Analysis, and Visualization for Business Insights untuk mempersiapkan peserta untuk menjawab kebutuhan tersebut.
-Apa yang telah saya pelajari dari program studi independen bersertifikat yang diadakan oleh program ini bisa dilihat bisa dengan klik [![PSIB Zenius](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius.md)].
+Apa yang telah saya pelajari dari program studi independen bersertifikat yang diadakan oleh program ini bisa dilihat bisa dengan klik [PSIB Zenius](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius.md).
 ___
