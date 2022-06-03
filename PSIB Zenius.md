@@ -22,4 +22,5 @@ Ini adalah teknik yang mengubah data mentah menjadi format yang dapat dimengerti
 ---
 [Statistics for Data Science: Descriptive Statistic](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Python%20for%20Data%20Analysis%20%20Data%20Preprocessing%20with%20Pandas.ipynb)
 bab ini mempelajari untuk mengolah data dengan statistika desriptif menggunakan Python, statistika deskriptif digunakan untuk mendeskripsikan, meringkas dan membuat summary data agar lebih mudah dibaca dan digunakan.
+
 ---
