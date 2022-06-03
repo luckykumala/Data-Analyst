@@ -20,3 +20,6 @@ Bab ini menjelaskan bagaiman cara seorang data analyst mencari missing values da
 Ini adalah teknik yang mengubah data mentah menjadi format yang dapat dimengerti. Raw data selalu tidak lengkap dan data tersebut tidak dapat dikirim melalui model karena akan menyebabkan kesalahan tertentu. Oleh karena itu kita perlu melakukan preprocess data sebelum mengirimkannya melalui suatu model.
 
 ---
+[Statistics for Data Science: Descriptive Statistic](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Python%20for%20Data%20Analysis%20%20Data%20Preprocessing%20with%20Pandas.ipynb)
+bab ini mempelajari untuk mengolah data dengan statistika desriptif menggunakan Python, statistika deskriptif digunakan untuk mendeskripsikan, meringkas dan membuat summary data agar lebih mudah dibaca dan digunakan.
+---
