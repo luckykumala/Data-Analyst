@@ -12,7 +12,7 @@ Bab ini menjelaskan beberapa hal yang tentang strukture dari Python secara lebih
 adalah sebuah kondisi yang diciptakan dan memiliki fungsi yang harapannya dapat membantu developer dalam memecahkan kondisi validasi tindakan dari sebuah algoritma.
 
 ---
-[Missing Values Checking, Categorial Data Encoding, Anomalies and Outlier Handling](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Missing%20Values%20Checking%2C%20Categorial%20Data%20Encoding%2C%20Anomalies%20and%20Outlier%20Handling.ipynb)
+[Missing Values Checking, Categorial Data Encoding, Anomalies and Outlier Handling](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Praktek_Missing%20Values%20Checking%2C%20Categorial%20Data%20Encoding%2C%20Anomalies%20and%20Outlier%20Handling.ipynb)
 Bab ini menjelaskan bagaiman cara seorang data analyst mencari missing values dan menyelesaikan masalah anomali menggunakan Python secara lebih rinci.
 
 ---
