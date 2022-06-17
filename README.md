@@ -9,4 +9,8 @@ Sebagai mahasiswa manajemen saya memiliki minat terhadap data analyst karena seb
 ### Roadmap PSIB Zenius Data Warehousing, Analysis, and Visualization for Business Insights
 Data menjadi sumber daya penting di era digital. Namun di sisi lain, banyaknya data belum tentu memberikan nilai tambah apabila tidak mampu menghasilkan informasi yang dibutuhkan. Pengelolaan data mentah sampai menghasilkan informasi yang bermanfaat dan dapat dianalisis secara visual membutuhkan posisi tim data yang strategis dan ahli secara teknikal. Zenius menghadirkan sesi pendalaman kemampuan Data Warehousing, Analysis, and Visualization for Business Insights untuk mempersiapkan peserta untuk menjawab kebutuhan tersebut.
 Apa yang telah saya pelajari dari program studi independen bersertifikat yang diadakan oleh program ini bisa dilihat bisa dengan klik [PSIB Zenius](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius.md).
+
+### Project
+## 1 House Price
+Rumah adalah sebuah bangunan tempat di mana orang-orang tinggal. Biasanya rumah akan dibuat senyaman mungkin, dan seindah mungkin agar orang yang tinggal di dalamnya merasa nyaman saat berada di dalamnya. Akan tetapi dewasa ini ada orang yang belum memiliki rumah, karena manusia semakin berkembang menjadi banyak, sehingga rumah yang telah ditempati tidak akan bisa menampung banyak orang. Oleh karena itu orang berlomba-lomba untuk membeli rumah yang baru, proyek ini dibuat agar calon pembeli bisa memperkirakan harga rumah yang dipilih. [Klik di sini]
 ___
