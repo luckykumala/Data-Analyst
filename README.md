@@ -12,5 +12,5 @@ Apa yang telah saya pelajari dari program studi independen bersertifikat yang di
 
 ### Project
 ## 1 House Price
-Rumah adalah sebuah bangunan tempat di mana orang-orang tinggal. Biasanya rumah akan dibuat senyaman mungkin, dan seindah mungkin agar orang yang tinggal di dalamnya merasa nyaman saat berada di dalamnya. Akan tetapi dewasa ini ada orang yang belum memiliki rumah, karena manusia semakin berkembang menjadi banyak, sehingga rumah yang telah ditempati tidak akan bisa menampung banyak orang. Oleh karena itu orang berlomba-lomba untuk membeli rumah yang baru, proyek ini dibuat agar calon pembeli bisa memperkirakan harga rumah yang dipilih. [Klik di sini](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Projects/Project%20Analisa%20Harga%20Rumah.ipynb).
+Dewasa ini ada orang yang belum memiliki rumah, karena manusia semakin berkembang menjadi banyak, sehingga rumah yang telah ditempati tidak akan bisa menampung banyak orang. Oleh karena itu orang berlomba-lomba untuk membeli rumah yang baru, proyek ini dibuat agar calon pembeli bisa memperkirakan harga rumah yang dipilih dan orang yang ingin menjual rumahnya. [Klik di sini](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Projects/Project%20Analisa%20Harga%20Rumah.ipynb).
 ___
