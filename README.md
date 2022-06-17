@@ -10,7 +10,7 @@ Sebagai mahasiswa manajemen saya memiliki minat terhadap data analyst karena seb
 Data menjadi sumber daya penting di era digital. Namun di sisi lain, banyaknya data belum tentu memberikan nilai tambah apabila tidak mampu menghasilkan informasi yang dibutuhkan. Pengelolaan data mentah sampai menghasilkan informasi yang bermanfaat dan dapat dianalisis secara visual membutuhkan posisi tim data yang strategis dan ahli secara teknikal. Zenius menghadirkan sesi pendalaman kemampuan Data Warehousing, Analysis, and Visualization for Business Insights untuk mempersiapkan peserta untuk menjawab kebutuhan tersebut.
 Apa yang telah saya pelajari dari program studi independen bersertifikat yang diadakan oleh program ini bisa dilihat bisa dengan klik [PSIB Zenius](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius.md).
 
-### Project
-## 1 House Price
+## Project
+### 1 House Price
 Dewasa ini ada orang yang belum memiliki rumah, karena manusia semakin berkembang menjadi banyak, sehingga rumah yang telah ditempati tidak akan bisa menampung banyak orang. Oleh karena itu orang berlomba-lomba untuk membeli rumah yang baru, proyek ini dibuat agar calon pembeli dan orang yang ingin menjual rumah bisa memperkirakan harga rumah. Analisa yang telah saya buat [Klik di sini](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Projects/Project%20Analisa%20Harga%20Rumah.ipynb).
 ___
