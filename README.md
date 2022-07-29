@@ -11,7 +11,8 @@ Data menjadi sumber daya penting di era digital. Namun di sisi lain, banyaknya d
 Apa yang telah saya pelajari dari program studi independen bersertifikat yang diadakan oleh program ini bisa dilihat bisa dengan klik [PSIB Zenius](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius.md).
 
 ## Certificate
-Setelah menyelesaikan studi independen yang telah dilakukan di Zenius, saya telah diberikan sertifikat dan nilai sebagai bukti telah menyelesaikan dan telah memahami apa yang telah dipelajari dari nilai yang diberikan bisa dilihat dengan klik [Sertifikat](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/Certificate/Sertifikat%20Studi%20Independen_Data%20Analyst.pdf)
+Setelah menyelesaikan studi independen yang telah dilakukan di Zenius, saya telah diberikan sertifikat dan nilai sebagai bukti telah menyelesaikan dan telah memahami apa yang telah dipelajari bisa dilihat dengan klik [Sertifikat](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/Certificate/Sertifikat%20Studi%20Independen_Data%20Analyst.pdf)
+
 ## Project
 ### House Price Prediction Project
 Dewasa ini ada orang yang belum memiliki rumah, karena populasi manusia semakin berkembang menjadi lebih banyak, sehingga rumah yang telah ditempati tidak akan bisa menampung banyak orang. Oleh karena itu orang berlomba-lomba untuk membeli rumah yang baru, proyek ini dibuat agar calon pembeli dan orang yang ingin menjual rumah bisa memperkirakan harga rumah. Analisa yang telah saya buat [House Price Prediction](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius/Projects/Project%20Prediksi%20Harga%20Rumah.ipynb).
