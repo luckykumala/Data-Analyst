@@ -11,8 +11,10 @@ Data menjadi sumber daya penting di era digital. Namun di sisi lain, banyaknya d
 Apa yang telah saya pelajari dari program studi independen bersertifikat yang diadakan oleh program ini bisa dilihat bisa dengan klik [PSIB Zenius](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/PSIB%20Zenius.md).
 
 ## Certificate
+### Program Studi Independen Zenius Kampus Merdeka
 Setelah menyelesaikan studi independen yang telah dilakukan di Zenius, saya telah diberikan sertifikat dan nilai sebagai bukti telah menyelesaikan dan telah memahami apa yang telah dipelajari bisa dilihat dengan klik [Sertifikat](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/Certificate/Sertifikat%20Studi%20Independen_Data%20Analyst.pdf).
 
+### Virtual Internship ID/X Partners
 Setelah menyelesaikan studi independen, saya melakukan virtual internship yang diadakan Rakamin dengan mitra ID/X Partners pada bulan Agustus. Setelah menyelesaikan tugas dan project yang telah diberikan, saya mendapatkan sertifikat sebagai bukti telah menyelesaikan virtual internship. Bukti sertifikat yang telah saya dapatkan bisa dilihat dengan klik [Sertifikat](https://github.com/luckykumala/luckykumala_DA.github.io/blob/master/Certificate/Lucky%20Kumala_vix-completion-certificate-72215IAPLGII2882022.pdf).
 
 ## Project
